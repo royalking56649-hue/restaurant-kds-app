@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'LineSpeed | Restaurant KDS',
-  description: 'Real-time kitchen communication',
+  title: 'LineSpeed KDS',
+  description: 'Restaurant Real-time Communication',
 };
 
 export default function RootLayout({ children }) {
